@@ -1,4 +1,3 @@
-[![MasterHead](https://i.gifer.com/origin/37/37355e28e4cc59d08bfa05f379734b03_w200.webp)]
 <h1 align="center">Hi 👋, I'm Dheeraj Singh</h1>
 <h3 align="center">A passionate Backend developer from India</h3>
 
