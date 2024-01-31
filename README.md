@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Dheeraj Singh</h1>
 <h3 align="center">A passionate Backend developer from India</h3>
 
-<img align="right" alt="coding" width="400" src="https://media1.giphy.com/media/QDjpIL6oNCVZ4qzGs7/giphy.gif?cid=ecf05e47v39mnc3dt8quomfcqstqb8zkowb3g6ishl34h2bf&ep=v1_gifs_search&rid=giphy.gif&ct=gif">
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dhrax21&label=Profile%20views&color=0e75b6&style=flat" alt="dhrax21" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dhrax21" alt="dhrax21" /></a> </p>
