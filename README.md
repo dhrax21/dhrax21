@@ -7,11 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/dhrax21bc" target="blank"><img src="https://img.shields.io/twitter/follow/dhrax21bc?logo=twitter&style=for-the-badge" alt="dhrax21bc" /></a> </p>
 
-- 🌱 I’m currently learning **ReactJs , SpringBoot**
+- 🌱 I’m currently learning **Machine Learning and AI , SpringBoot**
 
 - 👨‍💻 All of my projects are available at [github.com/dhrax21](github.com/dhrax21)
 
-- 💬 Ask me about **Java , DSA , Backend**
+- 💬 Ask me about **Python , Java , DSA , Backend**
 
 - 📫 How to reach me **dhrax21bc@gmail.com**
 
