@@ -1,37 +1,130 @@
-<h1 align="center">Hi 👋, I'm Dheeraj Singh</h1>
-<h3 align="center">A passionate Full Stack & Gen AI Developer from India</h3>
+<h1 align="center">Hi, I'm Dheeraj Singh 👋</h1>
+<h3 align="center">Backend & Full-Stack Engineer | Java • Spring Boot • Cloud • ML Enthusiast</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dhrax21&label=Profile%20views&color=0e75b6&style=flat" alt="dhrax21" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dhrax21" alt="dhrax21" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/dhrax21bc" target="blank"><img src="https://img.shields.io/twitter/follow/dhrax21bc?logo=twitter&style=for-the-badge" alt="dhrax21bc" /></a> </p>
-
-- 🌱 I’m currently learning **Machine Learning and AI , SpringBoot**
-
-- 👨‍💻 All of my projects are available at [github.com/dhrax21](github.com/dhrax21)
-
-- 💬 Ask me about **Python , Java , DSA , Backend, Full Stack, AI**
-
-- 📫 How to reach me **dhrax21bc@gmail.com**
-
-- 📄 Know about my experiences [linkedin/dheeraj-singh](linkedin/dheeraj-singh)
-
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/dhrax" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="dhrax" height="30" width="40" /></a>
-<a href="https://twitter.com/dhrax21bc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dhrax21bc" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/dheeraj-singh-bc21048" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dheeraj-singh-bc21048" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/dheerajsingh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="dheerajsingh" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://github.com/dhrax21">
+    <img src="https://komarev.com/ghpvc/?username=dhrax21&label=Profile%20Views&color=0e75b6&style=flat" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dhrax21&show_icons=true&locale=en&layout=compact" alt="dhrax21" /></p>
+## 👨‍💻 About Me
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dhrax21&show_icons=true&locale=en" alt="dhrax21" /></p>
+I am a **backend-focused full-stack developer** with strong fundamentals in **data structures, system design, and scalable APIs**.  
+I build **real-world products** using **Java, Spring Boot, SQL, cloud services**, and modern frontend tooling.
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dhrax21&" alt="dhrax21" /></p>
+Currently, I am expanding into **Machine Learning and AI**, with hands-on projects in **Python, NLP, and data engineering**.
 
+- 🔧 Backend-first engineer with full-stack exposure  
+- 📦 Built production-style APIs (auth, payments, file storage, RBAC)  
+- ☁️ Cloud, DevOps, and CI/CD aware  
+- 🧠 Strong problem-solving & DSA foundation  
+
+---
+
+## 🛠️ Tech Stack
+
+### **Backend & APIs**
+- Java, Spring Boot, Spring Security
+- RESTful APIs, JWT Authentication
+- MySQL, PostgreSQL, MongoDB
+- Kafka (basics), Redis (conceptual)
+
+### **Frontend**
+- HTML5, CSS3, JavaScript (ES6+)
+- React.js
+- Tailwind CSS, Bootstrap
+
+### **Cloud & DevOps**
+- AWS (EC2, S3 – fundamentals)
+- Docker
+- CI/CD concepts
+- Linux
+
+### **AI / Data**
+- Python
+- Machine Learning fundamentals
+- NLP (NLTK)
+- Data preprocessing & analysis
+
+### **Tools**
+- Git & GitHub
+- Postman
+- Jenkins
+- Firebase, Supabase
+
+---
+
+## 🚀 Featured Projects
+
+### 📚 **EngiBriefs** – Digital E-Book Platform
+**Tech:** Spring Boot, Supabase, Razorpay, HTML/CSS/JS  
+- Authentication (Email + Google OAuth)
+- Secure digital product purchase flow
+- Razorpay payment integration
+- Role-based admin controls
+- Cloud file storage & access control
+
+### 🚕 **RideEasy** – Cab Booking Backend
+**Tech:** Spring Boot, MySQL, Spring Security  
+- User & driver authentication
+- Ride lifecycle management
+- Secure APIs with role separation
+
+### 🎬 **Movie Booking API**
+**Tech:** Spring Boot, REST APIs  
+- Seat availability logic
+- Booking workflows
+- Clean controller-service-repository architecture
+
+### 🤖 **NLP Projects**
+**Tech:** Python, NLTK  
+- Text preprocessing
+- Tokenization, stemming, frequency analysis
+
+---
+
+## 📈 Problem Solving
+
+- Strong grasp of **DSA**
+- Active on **LeetCode**
+- Focused on writing **clean, readable, and scalable code**
+
+---
+
+## 🌱 Currently Learning
+
+- Machine Learning & AI
+- System Design (LLD & HLD)
+- Advanced Spring Boot & Cloud Architecture
+
+---
+
+## 🤝 Connect With Me
+
+- 💼 **LinkedIn:** https://linkedin.com/in/dheeraj-singh-bc21048  
+- 🐦 **X (Twitter):** https://x.com/dhrax21bc  
+- 💻 **GitHub:** https://github.com/dhrax21  
+- 🧠 **LeetCode:** https://leetcode.com/u/dhrax21bc/
+- 📧 **Email:** dhrax21bc@gmail.com  
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dhrax21&show_icons=true&theme=default" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dhrax21" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhrax21&layout=compact" />
+</p>
+
+---
+
+⭐ *Always building. Always learning. Focused on engineering that scales.*
